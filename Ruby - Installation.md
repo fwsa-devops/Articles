@@ -4,7 +4,7 @@
 ### Windows:
 https://rubyinstaller.org/downloads/ ( Suggested to go with 2.6.x-1 (x64) )
 ### Linux (Ubuntu)
-- Using rbenv -  https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04 ( Suggested to go with 2.6.9 )
+- Using rbenv -  https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04 ( Suggested to go with 2.6.x )
 - Using RVM ( Ruby Version Manager) - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-20-04
 
 
