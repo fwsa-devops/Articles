@@ -47,3 +47,15 @@ An Instance variable name **starts with a @ sign**. They **don’t need to be in
 These Instance Variables belongs to the single instance of the class and are accessable anywhere with inside the class. Any changes to the value of the instance variable will not reflect in other instances of the Class.
 
 Instance Variable private to the object. To access the values of these Instance variable an additional method is required.
+
+```ruby
+Class Student
+	@@no_of_students = 0
+	@name
+
+	def name
+		return @name
+	end
+	
+end
+```
