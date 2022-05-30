@@ -1,5 +1,22 @@
 # Ruby - Introduction & Installation
 
+## Ruby: (2.6.9)
+### Windows:
+https://rubyinstaller.org/downloads/ ( Suggested to go with 2.6.9-1 (x64) )
+### Linux (Ubuntu)
+Using rbenv -  https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04 ( Suggested to go with 2.6.9 )
+Using RVM ( Ruby Version Manager) - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-20-04
+
+
+## Rails: (6.1.5)
+### Both Windows and Linux
+https://www.ruby-lang.org/en/documentation/installation/
+
+### Rails Mysql gem
+To install mysql gem package run the following command
+
+``` gem install mysql2```
+
 # Installation
 
 To Install Ruby, Visit [RubyInstaller](https://rubyinstaller.org/downloads/) and download the latest & stable **Ruby+Devkit** installer. To install Ruby on other operating systems visit [here](https://www.ruby-lang.org/en/documentation/installation/#:~:text=Here%20are%20available%20installation%20methods).
