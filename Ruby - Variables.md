@@ -15,6 +15,7 @@ Local variable name **starts with a lowercase letter or underscore(_)**. It is o
 def myFunction
 		foo = "This is a local variable"
 		_bar = "This is also a local variable"
+		FOO = "This is a constant local variable"
 end
 ```
 
