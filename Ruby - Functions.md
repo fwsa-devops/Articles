@@ -1,3 +1,5 @@
+# Ruby - Functions
+
 Ruby functions are similar to functions in any other programming language. Ruby Functions are used to bundle one or more repeatable statements into a single unit.
 
 Function names must begin with a lowercase letters. Methods should be defined before calling them, otherwise ruby will raise an exception for undefined method invoking.
