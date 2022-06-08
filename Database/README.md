@@ -1,7 +1,7 @@
 ---
 title: Database
 excerpt:  A database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage
-cover: https://user-images.githubusercontent.com/98386787/172140793-2ae16c57-8bad-483a-b21b-a76bb7fd52eb.jpeg
+cover: https://user-images.githubusercontent.com/98386787/172582771-3f8dd688-6d11-48e4-b52b-b13a586c698b.jpeg
 ---
 
  A database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. 
