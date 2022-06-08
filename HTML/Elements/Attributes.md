@@ -20,7 +20,7 @@ Global attributes are attributes common to all HTML elements; they can be used o
 
 Global attributes may be specified on all HTML elements, even those not specified in the standard. That means that any non-standard elements must still permit these attributes, even though using those elements means that the document is no longer HTML5-compliant. For example, HTML5-compliant browsers hide content marked as <foo hidden>...</foo>, even though <foo> is not a valid HTML element.
 
-### List of Global Attributes
+### few of the Global Attributes are :
 
 - `id`
 - `class`
