@@ -9,4 +9,4 @@ JavaScript, often abbreviated JS, is a programming language that is one of the c
 
 JavaScript has been standardized in the ECMAScript language specification. The latest version of the language is called ECMAScript 2015. JavaScript is used in many websites and is the language of the World Wide Web. JavaScript is also used in many other applications, including desktop publishing, web browsing, and video games.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKUmwIiiBcwOYlYy8y7x4d_IMIGfmOkQ-30vNQ9lhHypI3q3f3frsdvytleDOkJ-9HbgrRjNpz6IGR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozAllowFullScreen="true" webkitAllowFullScreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKUmwIiiBcwOYlYy8y7x4d_IMIGfmOkQ-30vNQ9lhHypI3q3f3frsdvytleDOkJ-9HbgrRjNpz6IGR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen mozAllowFullScreen="true" webkitAllowFullScreen="true"></iframe>
